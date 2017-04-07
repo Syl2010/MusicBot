@@ -1,0 +1,1 @@
+Bot de musique, utilisable en channel vocal pour diffuser de la musique sur demande.
